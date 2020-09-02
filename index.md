@@ -13,14 +13,18 @@ This version is addressed to developers or research with Matlab knowledge. The v
 
 To work with `tuDHM.m` the user should read the hologram, and input the initial parameters [lambda, pixel sizes in both axis (x,y)]
 
-### read the hologra
+### read the hologram
 ```markdown
-  
+ %% load hologram
+ filename = 'name hologram.tif' # The hologram must be in the same folder when tuDMH is running
 ```
 
 ### input parameters
 ```markdown
-  
+  %% parameters of reconstruction (this parameters depend of the hologram record)  
+  lambda = 0.633;% wavelength used to recorded the hologram
+  dx = 6.9;% size of pixel size X
+  dy = 6.9;% size of pixel size Y
 ```
 
 ### tDHM GUI
