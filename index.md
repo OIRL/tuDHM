@@ -30,9 +30,17 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Funding
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OIRL/tuDHM/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This project has received funding from the University of Memphis
+
+
+### Credits
+
+tuDHM is developed in MATLAB. (2020). version 7.10.0 (R2020a). Natick, Massachusetts: The MathWorks Inc.
+
+
+The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Citation
 You can reference tuDHM Numerical Propagation using:
@@ -41,6 +49,8 @@ R. Castaneda and A. Doblas, "Fast and automatic algorithm to universal recovery 
 ### Support or Contact
 
 * Raul Castaneda 
+
+
 email: (*rcstdq@memphis.edu*)
 
 
@@ -51,9 +61,9 @@ ResearchGate: [Raul Castaneda](https://www.researchgate.net/profile/Raul_Castane
 
 
 * Ana Doblas 
+
+
 email: (*<adoblas@memphis.edu*)
-
-
 
 
 Google Scholar: [Ana doblas](https://scholar.google.es/citations?user=PvvDEMYAAAAJ&hl=en)
