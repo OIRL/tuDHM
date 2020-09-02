@@ -29,6 +29,9 @@ To work with `tuDHM.m` the user should read the hologram, and input the initial 
 
 ### tDHM GUI
 This version contains a GUI friendly that is focus for anyone that required obtain the numerica phase reconstruction of holograms without knowledge of Matlab platform. 
+(https://github.com/OIRL/tuDHM/blob/gh-pages/images/tuDHM-GUI.png)
+
+<img src="images/tuDHM-GUI.png" alt="hi" class="inline"/>
 
 ### Manual
 [Dowload](https://drive.google.com/file/d/15XhSz9R1HQYQ7RUuUUGRnO17uYsaBXE5/view?usp=sharing)
@@ -87,9 +90,6 @@ ResearchGate: [Ana Doblas](https://www.researchgate.net/profile/Ana_Doblas2)
 The main research of the tuDHM project is Ana Doblas 
 
 
-You can use the [editor on GitHub](https://github.com/OIRL/tuDHM/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
 
