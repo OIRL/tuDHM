@@ -21,10 +21,10 @@ To work with `tuDHM.m` the user should read the hologram, and input the initial 
 
 ### input parameters
 ```markdown
-  %% parameters of reconstruction (this parameters depend of the hologram record)  
+  %% parameters of reconstruction (this parameters depend of the configuration setup when the hologram was recorded)  
   lambda = 0.633;% wavelength used to recorded the hologram
-  dx = 6.9;% size of pixel size X
-  dy = 6.9;% size of pixel size Y
+  dx = 6.9;% size of pixel in X
+  dy = 6.9;% size of pixel in Y
 ```
 
 ### tDHM GUI
