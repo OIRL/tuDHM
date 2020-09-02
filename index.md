@@ -27,7 +27,7 @@ To work with `tuDHM.m` the user should read the hologram, and input the initial 
   dy = 6.9;% size of pixel in Y
 ```
 
-### tDHM GUI
+### tuDHM GUI
 This version contains a GUI friendly that is focus for anyone that required obtain the numerica phase reconstruction of holograms without knowledge of Matlab platform. 
 (https://github.com/OIRL/tuDHM/blob/gh-pages/images/tuDHM-GUI.png)
 
