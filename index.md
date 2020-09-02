@@ -3,18 +3,18 @@
 
 tuDHM is an algorithm to recover the complex object information for a single-shot digital holographic microscope (DHM) operating in the telecentric regimen. The algoritm is based on the minimization of a cost function that finds the best numerical conjugated reference beam to compensate the filtered object information, eliminating any undesired phase perturbation due to the tilt between the reference and object waves. 
 
+### Methods of use
 
+We have develop two implementation, tuDHM for developers that allow to research work with direct with the .m files of matlab and a GUI version for people that not have knoledge about matlab.
 
+### tuDHM developers
+
+### tDHM GUI
+This version contains a GUI friendly that is focus for anyone that required obtain the numerica phase reconstruction of holograms without knowledge of Matlab platform. 
 
 ### Manual
 [Dowload](https://github.com/OIRL/tuDHM/blob/gh-pages/tuDHM-Manual.docx)
 
-[get the PDF]({{ https://github.com/OIRL/tuDHM/blob/gh-pages/documentation/tuDHM-Manual.pdf }}/documentation/tuDHM-Manual.pdf)
-<a href="OIRL.github.io/OIRL/tuDHM/blob/gh-pages/tuDHM-Manual.docx">doc.</a>
-
-<a href="/documentation/tuDHM-Manual.pdf" class="image fit"><img src="images/marr_pic.jpg" alt="">Dowload</a>
-
-<a href="https://github.com/OIRL/tuDHM/blob/gh-pages/">PDF.</a>
 ### Downloads
 
 
