@@ -7,7 +7,7 @@ tuDHM is an algorithm to recover the complex object information for a single-sho
 
 
 ### Manual
-[Dowload:](https://github.com/OIRL/tuDHM/blob/gh-pages/tuDHM-Manual.docx)
+[Dowload](https://github.com/OIRL/tuDHM/blob/gh-pages/tuDHM-Manual.docx)
 
 ### Downloads
 
