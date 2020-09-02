@@ -8,12 +8,20 @@ tuDHM is an algorithm to recover the complex object information for a single-sho
 We have develop two implementation, tuDHM for developers that allow to research work with direct with the .m files of matlab and a GUI version for people that not have knoledge about matlab.
 
 ### tuDHM developers
+This version is addressed to developers or research with Matlab knowledge. The version contain seven function where the main function is called tuDHM.m
+
+
+To work with tuDHM.m the user should read the hologram, and input the initial parameters (lambda, pixel sizes in both axis (x,y))
+```markdown
+  
+```
+
 
 ### tDHM GUI
 This version contains a GUI friendly that is focus for anyone that required obtain the numerica phase reconstruction of holograms without knowledge of Matlab platform. 
 
 ### Manual
-[Dowload](https://github.com/OIRL/tuDHM/blob/gh-pages/tuDHM-Manual.docx)
+[Dowload](https://drive.google.com/file/d/15XhSz9R1HQYQ7RUuUUGRnO17uYsaBXE5/view?usp=sharing)
 
 ### Downloads
 
