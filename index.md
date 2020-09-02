@@ -34,9 +34,17 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OIRL/tuDHM/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
+### Citation
+You can reference tuDHM Numerical Propagation using:
+R. Castaneda and A. Doblas, "Fast and automatic algorithm to universal recovery of the quantitative phase distribution in digital holographic microscopy," IEEE
+
 ### Support or Contact
 
 Raul Castaneda (rcstdq@memphis.edu)
+
+
 Ana Doblas (adoblas@memphis.edu)
+
+The main research of the tuDHM project is Ana Doblas 
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
