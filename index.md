@@ -40,11 +40,28 @@ R. Castaneda and A. Doblas, "Fast and automatic algorithm to universal recovery 
 
 ### Support or Contact
 
-Raul Castaneda (rcstdq@memphis.edu)
+* Raul Castaneda 
+email: (*rcstdq@memphis.edu*)
 
 
-Ana Doblas (adoblas@memphis.edu)
+Google Scholar:[Raul Castaneda](https://scholar.google.es/citations?user=PvvDEMYAAAAJ&hl=en)
+
+
+ResearchGate: [Raul Castaneda](https://www.researchgate.net/profile/Raul_Castaneda_Quintero)
+
+
+* Ana Doblas 
+email: (*<adoblas@memphis.edu*)
+
+
+
+
+Google Scholar: [Ana doblas](https://scholar.google.es/citations?user=PvvDEMYAAAAJ&hl=en)
+
+
+ResearchGate: [Ana Doblas](https://www.researchgate.net/profile/Ana_Doblas2)
+
 
 The main research of the tuDHM project is Ana Doblas 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
