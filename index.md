@@ -9,7 +9,7 @@ tuDHM is an algorithm to recover the complex object information for a single-sho
 ### Manual
 [Dowload](https://github.com/OIRL/tuDHM/blob/gh-pages/tuDHM-Manual.docx)
 
-[get the PDF]({{ https://github.com/OIRL/tuDHM/blob/gh-pages/documentation/tuDHM-Manual.pdf }}/assets/mydoc.pdf)
+[get the PDF]({{ https://github.com/OIRL/tuDHM/blob/gh-pages/documentation/tuDHM-Manual.pdf }}/documentation/tuDHM-Manual.pdf)
 <a href="OIRL.github.io/OIRL/tuDHM/blob/gh-pages/tuDHM-Manual.docx">doc.</a>
 
 <a href="/documentation/tuDHM-Manual.pdf" class="image fit"><img src="images/marr_pic.jpg" alt="">Dowload</a>
