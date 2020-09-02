@@ -11,11 +11,17 @@ We have develop two implementation, tuDHM for developers that allow to research 
 This version is addressed to developers or research with Matlab knowledge. The version contain seven function where the main function is called tuDHM.m
 
 
-To work with tuDHM.m the user should read the hologram, and input the initial parameters (lambda, pixel sizes in both axis (x,y))
+To work with `tuDHM.m` the user should read the hologram, and input the initial parameters [lambda, pixel sizes in both axis (x,y)]
+
+### read the hologra
 ```markdown
   
 ```
 
+### input parameters
+```markdown
+  
+```
 
 ### tDHM GUI
 This version contains a GUI friendly that is focus for anyone that required obtain the numerica phase reconstruction of holograms without knowledge of Matlab platform. 
@@ -36,8 +42,6 @@ This project has received funding from the University of Memphis
 
 tuDHM is developed in MATLAB. (2020). version 7.10.0 (R2020a). Natick, Massachusetts: The MathWorks Inc.
 
-
-The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Citation
 You can reference tuDHM Numerical Propagation using: R. Castaneda and A. Doblas, "Fast and automatic algorithm to universal recovery of the quantitative phase distribution in digital holographic microscopy," IEEE
@@ -75,27 +79,7 @@ You can use the [editor on GitHub](https://github.com/OIRL/tuDHM/edit/gh-pages/i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
