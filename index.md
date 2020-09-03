@@ -30,7 +30,7 @@ To work with `tuDHM.m` the user should read the hologram, and input the initial 
 ### tuDHM GUI
 This version contains a GUI friendly that is focus for anyone that required obtain the numerica phase reconstruction of holograms without knowledge of MATLAB platform. 
 
-<img src="images/tuDHM-GUI.png" alt="hi" class="inline"/>
+<img src="images/tuDHM_GUI.PNG" alt="hi" class="inline"/>
 
 ### Manual
 [Dowload](https://drive.google.com/file/d/15XhSz9R1HQYQ7RUuUUGRnO17uYsaBXE5/view?usp=sharing)
