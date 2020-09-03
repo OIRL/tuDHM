@@ -28,7 +28,7 @@ To work with `tuDHM.m` the user should read the hologram, and input the initial 
 ```
 
 ### tuDHM GUI
-This version contains a GUI friendly that is focus for anyone that required obtain the numerica phase reconstruction of holograms without knowledge of Matlab platform. 
+This version contains a GUI friendly that is focus for anyone that required obtain the numerica phase reconstruction of holograms without knowledge of MATLAB platform. 
 
 <img src="images/tuDHM-GUI.png" alt="hi" class="inline"/>
 
@@ -46,7 +46,7 @@ This project has received funding from the University of Memphis
 
 ### Credits
 
-* tuDHM is developed in MATLAB. (2020). version 7.10.0 (R2020a). Natick, Massachusetts: The MathWorks Inc.
+* tuDHM is developed in MATLAB (2020). version 7.10.0 (R2020a). Natick, Massachusetts: The MathWorks Inc.
 
 
 * For the unwrapping step, tuDHM implements the code developed by *M.A. Herraez et.al.* 
