@@ -26,9 +26,25 @@ This version contains a GUI friendly that is focus for anyone that required obta
 
 ### Downloads
 
+[raw tuDHM]
+
+
+[tuDHM GUI]
+
+
+### Samples
+
+We have available two holograms: samples of [glioblastoma cells](https://drive.google.com/file/d/1LImiyLWZwMq0-vV7oSU8htI50-COFkGx/view?usp=sharing), and [USAF test target] (https://drive.google.com/file/d/1pKlpgoJUn06Pd1NKER-GdoZxdE21T_kk/view?usp=sharing).
+
+
 ```markdown
- %% load hologram
- filename = 'name hologram.tif' # The hologram must be in the same folder when tuDMH is running
+Parameters glioblastoma cells
+wavelength: 0.532nm
+pixel size: 2.4um
+
+Parameters USAF test target
+wavelength: 0.532nm
+pixel size: 4.65um
 ```
 
 ### Funding
