@@ -70,7 +70,7 @@ If using tuDHM for publication, please kindly cite the following: R. Castaneda a
 email: (*rcstdq@memphis.edu*)
 
 
-Google Scholar:[Raul Castaneda](https://scholar.google.es/citations?user=PvvDEMYAAAAJ&hl=en)
+Google Scholar:[Raul Castaneda](https://scholar.google.com/citations?user=RBtkL1oAAAAJ&hl=en)
 
 
 ResearchGate: [Raul Castaneda](https://www.researchgate.net/profile/Raul_Castaneda_Quintero)
