@@ -22,7 +22,7 @@ This version contains a GUI friendly that is focus for anyone that required obta
 <img src="images/tuDHM_GUI.PNG" alt="hi" class="inline"/>
 
 ### Manual
-[Dowload](https://drive.google.com/file/d/15XhSz9R1HQYQ7RUuUUGRnO17uYsaBXE5/view?usp=sharing)
+[Version 1.1](https://drive.google.com/file/d/15XhSz9R1HQYQ7RUuUUGRnO17uYsaBXE5/view?usp=sharing)
 
 ### Downloads
 
@@ -34,7 +34,8 @@ This version contains a GUI friendly that is focus for anyone that required obta
 
 ### Samples
 
-We have available two holograms: samples of [glioblastoma cells](https://drive.google.com/file/d/1LImiyLWZwMq0-vV7oSU8htI50-COFkGx/view?usp=sharing), and [USAF test target] (https://drive.google.com/file/d/1pKlpgoJUn06Pd1NKER-GdoZxdE21T_kk/view?usp=sharing).
+We have available two holograms: samples of [glioblastoma cells](https://drive.google.com/file/d/1LImiyLWZwMq0-vV7oSU8htI50-COFkGx/view?usp=sharing), and 
+[USAF test target](https://drive.google.com/file/d/1pKlpgoJUn06Pd1NKER-GdoZxdE21T_kk/view?usp=sharing).
 
 
 ```markdown
