@@ -11,7 +11,7 @@ We have developed two implementations for tuDHM. A raw version for developers an
 
 ### raw tuDHM 
 
-This version is addressed to developers or imaging researchers with MATLAB knowledge. On dowlads label the file downloaded rawVtuDHM.zip should be unzip, the folder contains seven files, where the main function is tuDHM.m. To operate it, the function tuDHM.m must be open with MATLAB. This version is addressed to developers or research with MATLAB knowledge. The version contain seven function where the main function is called tuDHM.m To work with `tuDHM.m` the user should read the hologram, and input the initial parameters [lambda, pixel sizes in both axis (x,y)]. For more information about the use of raw tuDHM, please dowload the manual.
+This version is addressed to developers or imaging researchers with MATLAB knowledge. The version contain seven function where the main function is called tuDHM.m To work with `tuDHM.m` the user should read the hologram, and input the initial parameters [lambda, pixel sizes in both axis (x,y)]. For more information about the use of raw tuDHM, please dowload the manual.
 
 
 ### tuDHM GUI
@@ -94,10 +94,3 @@ ResearchGate: [Ana Doblas](https://www.researchgate.net/profile/Ana_Doblas2)
 
 
 The main research of the tuDHM project is Ana Doblas 
-
-
-
-
-
-
-
