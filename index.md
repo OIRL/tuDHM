@@ -69,6 +69,12 @@ If using tuDHM for publication, please kindly cite the following: R. Castaneda a
 
 ### Support or Contact
 
+| Research  | Research |
+| ------------- | ------------- |
+| email: (*rcstdq@memphis.edu*)  | Content Cell  |
+| Google Scholar:[Raul Castaneda](https://scholar.google.com/citations?user=RBtkL1oAAAAJ&hl=en) | Content Cell  |
+|ResearchGate: [Raul Castaneda](https://www.researchgate.net/profile/Raul_Castaneda_Quintero)|-----------------|
+
 * Raul Castaneda 
 
 
