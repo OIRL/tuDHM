@@ -76,4 +76,4 @@ If using tuDHM for publication, please kindly cite the following: R. Castaneda a
 | Raul Castaneda | *rcstdq@memphis.edu* | [RaulGoogle](https://scholar.google.com/citations?user=RBtkL1oAAAAJ&hl=en) | [RaulResearch](https://www.researchgate.net/profile/Raul_Castaneda_Quintero)
 | Ana Doblas| *adoblas@memphis.edu* | [AnaGoogle](https://scholar.google.es/citations?user=PvvDEMYAAAAJ&hl=en) | [AnaResearch](https://www.researchgate.net/profile/Ana_Doblas2) |
 
-The main research of the tuDHM project is Ana Doblas 
+The main research of tuDHM project is Ana Doblas 
