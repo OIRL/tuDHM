@@ -57,7 +57,7 @@ This project has received funding from the University of Memphis
 ### Credits
 * tuDHM is developed in MATLAB (2020). version 7.10.0 (R2020a). Natick, Massachusetts: The MathWorks Inc.
 
-* For the unwrapping step, tuDHM implements the code developed by *M.A. Herraez et.al.* and implemented by *M. F. Kasim*
+* For the unwrapping step, tuDHM implements the code developed by *M.A. Herraez et. al.* and implemented by *M. F. Kasim*
 
 M. A. Herraez, D. R. Burton, M. J. Lalor, and M. A. Gdeisat, "Fast two-dimensional phase-unwrapping algorithm based on sorting by reliability following a noncontinuous path", Applied Optics, Vol. 41, Issue 35, pp. 7437-7444 (2002).  
 
@@ -73,6 +73,7 @@ If using tuDHM for publication, please kindly cite the following: R. Castaneda a
 | Researcher  | email | Google Scholar | ResearchGate |
 | ------------- | ------------- |-------------| -------------|
 | Raul Castaneda | *rcstdq@memphis.edu* | [RaulGoogle](https://scholar.google.com/citations?user=RBtkL1oAAAAJ&hl=en) | [RaulResearch](https://www.researchgate.net/profile/Raul_Castaneda_Quintero)
-| Ana Doblas| *adoblas@memphis.edu* | [AnaGoogle](https://scholar.google.es/citations?user=PvvDEMYAAAAJ&hl=en) | [AnaResearch](https://www.researchgate.net/profile/Ana_Doblas2) |OIRL Website| https://sites.google.com/view/oirl/home
+| Ana Doblas| *adoblas@memphis.edu* | [AnaGoogle](https://scholar.google.es/citations?user=PvvDEMYAAAAJ&hl=en) | [AnaResearch](https://www.researchgate.net/profile/Ana_Doblas2) 
 
-The Principal Investigator (PI) of tuDHM project is Dr. Ana Doblas 
+The Principal Investigator (PI) of OIRL and tuDHM project is Dr. Ana Doblas 
+OIRL Website| https://sites.google.com/view/oirl/home
