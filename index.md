@@ -77,4 +77,4 @@ If using tuDHM for publication, please kindly cite the following: R. Castaneda a
 
 The Principal Investigator (PI) of OIRL and tuDHM project is Dr. Ana Doblas 
 
-Please visit OIRL Website for learning more about our different projects| https://sites.google.com/view/oirl/home
+Please visit OIRL website for learning more about our different projects [https://sites.google.com/view/oirl/home]
