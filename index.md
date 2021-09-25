@@ -1,7 +1,7 @@
 ## tuDHM
-### Fast, automatic and accurate method 
+### Fast automatic reconstruction method for quantitative phase images with reduced phase perturbations in off-axis digital holographic microscopy (DHM)
 
-tuDHM is an algorithm to recover the complex object information for a single-shot digital holographic microscope (DHM) operating in the telecentric regimen. The algoritm is based on the minimization of a cost function that finds the best numerical conjugated reference beam to compensate the filtered object information, eliminating any undesired phase perturbation due to the tilt between the reference and object waves. 
+tuDHM is an algorithm to recover the complex object information for a single-shot digital holographic microscope (DHM) operating in the telecentric regimen. The algoritm is based on the minimization of a cost function that finds the best numerical conjugated reference beam to compensate the filtered object spectrum, eliminating any undesired phase perturbation due to the tilt between the reference and object waves. 
 
 <p align="center">
 <img src="images/implementation.png" alt="hi" class="inline"/>
@@ -42,11 +42,11 @@ We have available two holograms: samples of [glioblastoma cells](https://drive.g
 
 ```markdown
 Parameters glioblastoma cells
-wavelength: 0.532nm
+wavelength: 0.532um
 pixel size: 2.4um
 
 Parameters USAF test target
-wavelength: 0.532nm
+wavelength: 0.532um
 pixel size: 4.65um
 ```
 
@@ -57,7 +57,7 @@ This project has received funding from the University of Memphis
 ### Credits
 * tuDHM is developed in MATLAB (2020). version 7.10.0 (R2020a). Natick, Massachusetts: The MathWorks Inc.
 
-* For the unwrapping step, tuDHM implements the code developed by *M.A. Herraez et.al.* 
+* For the unwrapping step, tuDHM implements the code developed by *M.A. Herraez et.al.* and implemented by *M. F. Kasim*
 
 M. A. Herraez, D. R. Burton, M. J. Lalor, and M. A. Gdeisat, "Fast two-dimensional phase-unwrapping algorithm based on sorting by reliability following a noncontinuous path", Applied Optics, Vol. 41, Issue 35, pp. 7437-7444 (2002).  
 
@@ -65,7 +65,7 @@ M. F. Kasim, "Fast 2D phase unwrapping implementation in MATLAB" [unwrapping](ht
 
 
 ### Citation
-If using tuDHM for publication, please kindly cite the following: R. Castaneda and A. Doblas, "Fast and automatic algorithm to universal recovery of the quantitative phase distribution in digital holographic microscopy," IEEE
+If using tuDHM for publication, please kindly cite the following: R. Castaneda and A. Doblas, "Fast-iterative automatic reconstruction method for quantitative phase images with reduced phase perturbations in off-axis digital holographic microscopy," Applied Optics, _under review_ (2021).
 
 
 ### Support or Contact
@@ -73,7 +73,6 @@ If using tuDHM for publication, please kindly cite the following: R. Castaneda a
 | Researcher  | email | Google Scholar | ResearchGate |
 | ------------- | ------------- |-------------| -------------|
 | Raul Castaneda | *rcstdq@memphis.edu* | [RaulGoogle](https://scholar.google.com/citations?user=RBtkL1oAAAAJ&hl=en) | [RaulResearch](https://www.researchgate.net/profile/Raul_Castaneda_Quintero)
-| Ana Doblas| *adoblas@memphis.edu* | [AnaGoogle](https://scholar.google.es/citations?user=PvvDEMYAAAAJ&hl=en) | [AnaResearch](https://www.researchgate.net/profile/Ana_Doblas2) |
+| Ana Doblas| *adoblas@memphis.edu* | [AnaGoogle](https://scholar.google.es/citations?user=PvvDEMYAAAAJ&hl=en) | [AnaResearch](https://www.researchgate.net/profile/Ana_Doblas2) |OIRL Website| https://sites.google.com/view/oirl/home
 
-
-The main researcher of tuDHM project is Ana Doblas 
+The Principal Investigator (PI) of tuDHM project is Dr. Ana Doblas 
