@@ -20,11 +20,11 @@ This version is addressed to developers or imaging researchers with MATLAB knowl
 ### tuDHM GUI
 This version contains a GUI friendly that is focus for anyone that required obtain the numerica phase reconstruction of holograms without knowledge of MATLAB platform. 
 <p align="center">
-<img src="images/tuDHM_GUI.PNG" alt="hi" class="inline"/>
+<img src="images/tuDHM_GUI.png" alt="hi" class="inline"/>
 </p>
 
 ### Manual
-[Version 1.1](https://drive.google.com/file/d/15XhSz9R1HQYQ7RUuUUGRnO17uYsaBXE5/view?usp=sharing)
+[Version 1.1](https://drive.google.com/drive/u/1/folders/1dx0FwzlBMjwrhQdnu3ou0NxkDV5-WbCV)
 
 ### Downloads
 
@@ -36,18 +36,18 @@ This version contains a GUI friendly that is focus for anyone that required obta
 
 ### Samples
 
-We have available two holograms: samples of [glioblastoma cells](https://drive.google.com/file/d/1LImiyLWZwMq0-vV7oSU8htI50-COFkGx/view?usp=sharing), and 
-[USAF test target](https://drive.google.com/file/d/1pKlpgoJUn06Pd1NKER-GdoZxdE21T_kk/view?usp=sharing).
+We have available two holograms: samples of [RBC](https://drive.google.com/file/d/1LImiyLWZwMq0-vV7oSU8htI50-COFkGx/view?usp=sharing), and 
+[Drosophila](https://drive.google.com/drive/u/1/folders/1oSrxLRunNBb1ITnn8Pb2pMWxAuLrV2Qb).
 
 
 ```markdown
-Parameters glioblastoma cells
+Parameters RBC cells
 wavelength: 0.532um
 pixel size: 2.4um
 
 Parameters USAF test target
-wavelength: 0.532um
-pixel size: 4.65um
+wavelength: 0.632um
+pixel size: 6.9um
 ```
 
 ### Funding
