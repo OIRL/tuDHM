@@ -28,10 +28,10 @@ This version contains a GUI friendly that is focus for anyone that required obta
 
 ### Downloads
 
-[raw tuDHM]
+[raw tuDHM](https://drive.google.com/drive/folders/1JPoZdrmkjm8Ui-_fO_fzn1_BF_EVLScc)
 
 
-[tuDHM GUI]
+[tuDHM GUI](https://drive.google.com/drive/folders/1zkEpbPhi_wR_qp0SdtxDds0FpgIxT7cb)
 
 
 ### Samples
