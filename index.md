@@ -65,7 +65,7 @@ M. F. Kasim, "Fast 2D phase unwrapping implementation in MATLAB" [unwrapping](ht
 
 
 ### Citation
-If using tuDHM for publication, please kindly cite the following: R. Castaneda and A. Doblas, "Fast-iterative automatic reconstruction method for quantitative phase images with reduced phase perturbations in off-axis digital holographic microscopy," Applied Optics 60(32), 10214-10220 (2021). https://doi.org/10.1364/AO.437640(2021).
+If using tuDHM for publication, please kindly cite the following: R. Castaneda and A. Doblas, "Fast-iterative automatic reconstruction method for quantitative phase images with reduced phase perturbations in off-axis digital holographic microscopy," Applied Optics 60(32), 10214-10220 (2021).doi:10.1364/AO.437640.
 
 
 ### Support or Contact
