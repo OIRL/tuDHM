@@ -51,7 +51,7 @@ pixel size: 6.9um
 ```
 
 ### Funding
-This project has received funding from the University of Memphis
+This project was funded by the National Science Foundation (NSF) (grant number 2042563).
 
 
 ### Credits
